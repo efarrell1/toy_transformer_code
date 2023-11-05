@@ -1,5 +1,5 @@
-# toy_transformer_code
-Python notebooks to do experiments with toy transformer models
+# Toy Transformer Code
+Python notebooks and scripts to do experiments with toy transformer models. Results are summarised in blog-style posts at [https://efarrell1.github.io/](https://efarrell1.github.io/).
 
 `transformer_tests.py` contains a bunch of custom functions, drawing heavily from Neel Nanda's TransformerLens tutorials and [these](https://arena-ch1-transformers.streamlit.app/) excellent tutorials by Callum McDougall.
 
