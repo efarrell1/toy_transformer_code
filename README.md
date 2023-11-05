@@ -9,4 +9,4 @@ The code in `generalised_induction_sequences.ipynb` produces the results discuss
 
 The code in `previous-token-head.ipynb` approximately reproduces the results discussed in [https://efarrell1.github.io/posts/previous-token-head/](https://efarrell1.github.io/posts/previous-token-head/).
 
-The code in `Positional_Embeddings` approximately reproduces the results in [https://efarrell1.github.io/posts/pos-embeddings-2layer/](https://efarrell1.github.io/posts/pos-embeddings-2layer/)
+The code in `Positional_Embeddings.ipynb` approximately reproduces the results in [https://efarrell1.github.io/posts/pos-embeddings-2layer/](https://efarrell1.github.io/posts/pos-embeddings-2layer/)
